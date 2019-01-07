@@ -1,0 +1,4 @@
+rhotabularThermo/rhotabularThermo.C
+rhotabularThermo/rhotabularThermos.C
+
+LIB = $(FOAM_USER_LIBBIN)/librhoTabularThermophysicalModels_on
